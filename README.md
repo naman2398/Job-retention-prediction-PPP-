@@ -1,4 +1,4 @@
-## Job Retention Prediction
+# Job Retention Prediction
 
 ### Problem Statement
 Predict how many jobs a company will retain based on the publicly available loan data.
